@@ -8,6 +8,7 @@ public class HelloWorld  extends Display{
 		// TODO Auto-generated method stub
 		
 		Display.wish();
+		// packages concept
 	
 	}
 
